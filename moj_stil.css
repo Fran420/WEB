@@ -1,0 +1,32 @@
+body 
+{
+  background-color: lightblue;
+  text-align: justify;
+  font-style: Verdana;
+}
+p.citat
+{
+    font-size: 12px;
+    border: 1px solid #000;
+    background-color: #FFFFCC;
+}
+p.citat2
+{
+    color: firebrick;
+    text-align: center;
+    text-decoration: underline;
+}
+p.citat3
+{
+  text-align: right;
+  font-style: italic;
+}
+h1.naslov
+{
+  color: blue;
+  size: 24px;
+}
+h2.naslov2
+{
+  size: 12px;
+}
